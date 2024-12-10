@@ -1,0 +1,16 @@
+Beam size 24
+{
+ "name": "BLEU",
+ "score": 23.0,
+ "signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.4.3",
+ "verbose_score": "59.0/31.0/18.5/10.9 (BP = 0.936 ratio = 0.938 hyp_len = 3649 ref_len = 3892)",
+ "nrefs": "1",
+ "case": "mixed",
+ "eff": "no",
+ "tok": "13a",
+ "smooth": "exp",
+ "version": "2.4.3"
+}
+Execution time: 131.71205878257751 seconds
+BLEU score: 23.0
+BP: 0.936
